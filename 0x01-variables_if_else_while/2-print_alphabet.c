@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - prints an alphabet
+ * Return: Always 0
+ */
 int main(void)
 {
 	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
