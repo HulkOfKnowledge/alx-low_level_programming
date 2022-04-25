@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "main.h"
+=======
+#include "holberton.h"
+>>>>>>> a7a26f1e6df0815282ebbe9b8cb046a4f1ff93b0
 
 /**
  * print_times_table - Prints the n times table

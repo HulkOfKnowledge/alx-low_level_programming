@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "main.h"
+=======
+#include "holberton.h"
+>>>>>>> a7a26f1e6df0815282ebbe9b8cb046a4f1ff93b0
 
 /**
  * _isalpha - Shows 1 if the input is a
